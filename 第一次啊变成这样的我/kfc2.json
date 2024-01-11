@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 157
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "温州龙湾大歌星",
+      "addressDetail": "龙湾区永中街道永定路1188号万达广场3楼肯德基",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "温州世贸 早餐7点营业",
+      "addressDetail": "荷花路世贸大厦一楼",
+      "pro": "点唱机,礼品卡,手机点餐",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "温州人民",
+      "addressDetail": "人民路30号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "龙港龙跃",
+      "addressDetail": "龙港镇人民路402号长运大厦1楼",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "温州西城（24小时提供外送）",
+      "addressDetail": "西城路47号(24小时营业）",
+      "pro": "24小时,点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "温州锦绣 ",
+      "addressDetail": "锦绣路南国大厦一楼 电话89883028",
+      "pro": "店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "温州安泰早餐06：30-10：00",
+      "addressDetail": "划龙桥路101-103号安泰大厦一楼",
+      "pro": "店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "瑞安安阳",
+      "addressDetail": "万松东路永安大厦一楼萍萍美食城",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "虹桥",
+      "addressDetail": "虹桥南路中银大厦1楼(早餐06：00-10：00）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "乐清南虹",
+      "addressDetail": "投诉及咨询热线0577—6171 1855",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    }
+  ]
+}

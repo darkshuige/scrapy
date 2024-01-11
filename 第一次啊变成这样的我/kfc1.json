@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 157
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "瓯北锦江",
+      "addressDetail": "瓯北双塔路1036号锦江大酒店一楼",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "乐清清远（时代广场)",
+      "addressDetail": "投诉与咨询热线0577-61603961",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "虹桥幸福",
+      "addressDetail": "投诉电话：18367832909",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "苍南城中",
+      "addressDetail": "灵溪镇城中路107号苍南大酒店一楼",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "温州大学城",
+      "addressDetail": "高教园区国大商务中心一层",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "文化中心",
+      "addressDetail": "学院中路212号文化中心一楼",
+      "pro": "店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "柳市柳青",
+      "addressDetail": "餐厅热线：18968747177",
+      "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "平阳解放",
+      "addressDetail": "雅河路189号平阳大厦一层",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "北白象东大",
+      "addressDetail": "62983383/15726871538",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "瑞安电影院",
+      "addressDetail": "罗阳大道瑞安广场东首电影城旁",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "温州市"
+    }
+  ]
+}
