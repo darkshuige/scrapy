@@ -5,7 +5,8 @@ class DangSpider(scrapy.Spider):
     name = "dang"
     allowed_domains = ["category.dangdang.com"]
     start_urls = ["http://category.dangdang.com/cp01.01.02.00.00.00.html"]
-
+    base_url = 'https://category.dangdang.com/pg'
+    page = 1
     def parse(self, response):
         # scr = '//ul[@id="component_59"]/li/a/img/@data-original'
         # alt = '//ul[@id="component_59"]/li/a/img/@alt'
@@ -21,3 +22,7 @@ class DangSpider(scrapy.Spider):
             price = li.xpath('./p/span[@class="search_now_price"]/text()').extract_first()
             book = ScrapyDangdang095Item(scr=scr,name=name,price=price)
             yield book
+        if self.page < 100:
+            self.page = self.page + 1
+            url = self.base_url + str(self.page) + '-cp01.01.02.00.00.00.html'
+            yield scrapy.Request(url=url,callback=self.parse)

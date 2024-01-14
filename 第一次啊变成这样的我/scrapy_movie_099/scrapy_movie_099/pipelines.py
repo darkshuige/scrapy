@@ -8,18 +8,11 @@
 from itemadapter import ItemAdapter
 
 
-class ScrapyDangdang095Pipeline:
+class ScrapyMovie099Pipeline:
     def open_spider(self,spider):
-        self.fp = open('book.json','w',encoding='utf-8')
+        self.fp = open('movie.json','w',encoding='utf-8')
     def process_item(self, item, spider):
         self.fp.write(str(item))
         return item
     def close_spider(self,spider):
-        self.fp.close()
-import urllib.request
-class DangDangDownloadPipeline:
-    def process_item(self, item, spider):
-        url = 'http:' + item.get('scr')
-        filename = './books/' + item.get('name') + '.jpg'
-        urllib.request.urlretrieve(url=url,filename=filename)
-        return item
+        self.fp.close
